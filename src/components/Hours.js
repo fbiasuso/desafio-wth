@@ -14,7 +14,7 @@ const Hours = () => {
 
   return (
     <div>
-      <h1>Hora actual</h1>
+      <h1>Hora actual </h1>
       <p style={{ textAlign: 'center', fontSize: '24px' }}>{currentHour}</p>
     </div>
   );
